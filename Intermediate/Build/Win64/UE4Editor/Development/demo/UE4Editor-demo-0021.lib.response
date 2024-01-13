@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-demo-0021.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\demoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\DemoAnimInstance.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\demo.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\demoCharacter.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\demoGameMode.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\demo.init.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\DemoAnimInstance.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\demoCharacter.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\demoGameMode.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\demo\Intermediate\Build\Win64\UE4Editor\Development\demo\UE4Editor-demo-0021.lib"

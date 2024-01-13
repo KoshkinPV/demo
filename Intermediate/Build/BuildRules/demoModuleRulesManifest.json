@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\Documents\\Unreal Projects\\demo\\Source\\demo\\demo.Build.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\demo\\Source\\demo.Target.cs",
+		"C:\\Users\\user\\Documents\\Unreal Projects\\demo\\Source\\demoEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
